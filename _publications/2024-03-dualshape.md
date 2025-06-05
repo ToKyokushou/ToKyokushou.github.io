@@ -1,5 +1,5 @@
 ---
-title: "(1) DualShape: Sketch-based 3D Shape Design with Part Generation and Retrieval"
+title: "DualShape: Sketch-based 3D Shape Design with Part Generation and Retrieval"
 index: 1
 collection: publications
 category: manuscripts
