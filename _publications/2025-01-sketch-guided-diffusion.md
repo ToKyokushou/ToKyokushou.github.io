@@ -1,5 +1,5 @@
 ---
-title: "Sketch-Guided Scene Image Generation with Diffusion Model"
+title: "1. Sketch-Guided Scene Image Generation with Diffusion Model"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-sketch-guided-diffusion
@@ -9,6 +9,5 @@ venue: 'Computer & Graphics (Accepted), ACM/EG Expressive Symposium'
 slidesurl: ''
 paperurl: ''
 bibtexurl: ''
-citation: 'Zhang, T., Xie, X., Du, X., Xie, H.* (2025). &quot;Sketch-Guided Scene Image Generation with Diffusion Model.&quot; <i>Computer & Graphics</i>.'
 ---
 This paper was accepted at <i>Computer & Graphics</i> and also presented at the <i>9th ACM/EG Expressive Symposium</i>.
