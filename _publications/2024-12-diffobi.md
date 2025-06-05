@@ -1,7 +1,7 @@
 ---
 title: "DiffOBI: Diffusion-based Image Generation of Oracle Bone Inscription Style Characters"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2024-12-diffobi
 excerpt: 'Diffusion model for generating ancient Chinese oracle bone inscription characters.'
 date: 2024-12-01
