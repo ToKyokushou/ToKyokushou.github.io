@@ -1,5 +1,5 @@
 ---
-title: "4. Sketch-Guided Scene Image Generation with Diffusion Model"
+title: "Sketch-Guided Scene Image Generation with Diffusion Model"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-01-sketch-guided-diffusion
