@@ -1,7 +1,7 @@
 ---
 title: "DualSlide: Global-to-Local Sketching Interface for Slides Content and Layout Design"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2023-06-dualslide
 excerpt: 'A sketch-based design interface for creating slide content and layouts from global to local levels.'
 date: 2023-06-01
