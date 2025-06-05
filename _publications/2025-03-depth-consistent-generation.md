@@ -1,5 +1,5 @@
 ---
-title: "1. Multi-View Depth Consistent Image Generation Using Generative AI Models: Application on Architectural Design of University Buildings"
+title: "Multi-View Depth Consistent Image Generation Using Generative AI Models: Application on Architectural Design of University Buildings"
 collection: publications
 category: conferences
 permalink: /publication/2025-03-depth-consistent-generation
