@@ -1,7 +1,7 @@
 ---
 title: "From Architectural Sketch to Conceptual Representation: Using Structure-Aware Diffusion Model to Generate Renderings of School Buildings"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2025-03-architectural-sketch-representation
 excerpt: 'Structure-aware diffusion model for generating conceptual renderings from architectural sketches.'
 date: 2025-03-01
