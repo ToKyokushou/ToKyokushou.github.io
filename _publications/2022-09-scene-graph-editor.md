@@ -1,7 +1,7 @@
 ---
 title: "Interactive Drawing Interface for Editing Scene Graph"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2022-09-scene-graph-editor
 excerpt: 'A poster presenting a user interface for interactively editing scene graphs.'
 date: 2022-09-01
