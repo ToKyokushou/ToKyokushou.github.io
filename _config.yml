@@ -23,9 +23,9 @@ repository               : "ToKyokushou/ToKyokushou.github.io"
 author:
   # Biographic information
   avatar           : "self-image.png"
-  name             : "DU Xusheng /n (杜 旭升)"
+  name             : "DU Xusheng <br> 杜 旭升"
   pronouns         : # example: "she/her"  
-  bio              : "Japan Advanced Institute of Science and Technology (JAIST)"
+  bio              : "JAIST (Japan Advanced Institute of Science and Technology)"
   location         : "Ishikawa,Japan"
   employer         : "JAIST"
   uri              : # URL
