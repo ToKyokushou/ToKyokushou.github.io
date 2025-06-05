@@ -1,5 +1,5 @@
 ---
-title: "(3) Generative AI Models for Different Steps in Architectural Design: A Literature Review"
+title: "Generative AI Models for Different Steps in Architectural Design: A Literature Review"
 index: 3
 collection: publications
 category: manuscripts
