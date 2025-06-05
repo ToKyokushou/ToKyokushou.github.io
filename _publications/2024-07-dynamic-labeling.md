@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Labeling: A Control System for Labeling Styles in Image Annotation Tasks"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2024-07-dynamic-labeling
 excerpt: 'A control system for dynamically adapting labeling styles in image annotation workflows.'
 date: 2024-07-01
