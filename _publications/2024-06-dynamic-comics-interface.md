@@ -1,7 +1,7 @@
 ---
 title: "Interactive Design System for Dynamic Comics from Video Sequence"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2024-06-dynamic-comics-interface
 excerpt: 'A poster presenting an interactive tool for generating dynamic comics from video sequences.'
 date: 2024-06-01
