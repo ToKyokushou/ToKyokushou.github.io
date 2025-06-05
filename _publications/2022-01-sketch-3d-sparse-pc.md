@@ -1,5 +1,5 @@
 ---
-title: "2. Sketch-based 3D Shape Modeling from Sparse Point Clouds"
+title: "Sketch-based 3D Shape Modeling from Sparse Point Clouds"
 collection: publications
 category: conferences
 permalink: /publication/2022-01-sketch-3d-sparse-pc
