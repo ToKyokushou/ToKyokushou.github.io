@@ -1,7 +1,7 @@
 ---
 title: "Video2Comic: A Dynamic Comic Editor with Video Clips"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2024-07-video2comic
 excerpt: 'An interactive editor that transforms video content into dynamic comic layouts.'
 date: 2024-07-01
