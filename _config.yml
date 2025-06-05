@@ -25,9 +25,9 @@ author:
   avatar           : "self.png"
   name             : "DU Xusheng <br> 杜  旭升"
   pronouns         : # example: "she/her"  
-  # bio              : "JAIST"
+  bio              : "JAIST"
   location         : "Ishikawa,Japan"
-  employer         : "JAIST"
+  # employer         : "JAIST"
   uri              : # URL
   email            : "s2320034@jaist.ac.jp" 
 
