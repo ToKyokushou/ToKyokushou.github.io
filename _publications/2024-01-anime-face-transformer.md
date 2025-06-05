@@ -1,5 +1,5 @@
 ---
-title: "2. Interactive Drawing Interface for Aging Anime Face Sketches Using Transformer-Based Generative Model"
+title: "Interactive Drawing Interface for Aging Anime Face Sketches Using Transformer-Based Generative Model"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-01-anime-face-transformer
