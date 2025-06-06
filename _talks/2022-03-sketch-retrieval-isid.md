@@ -8,4 +8,5 @@ excerpt: 'A poster on sketch-based retrieval and reconstruction of 3D models fro
 date: 2022-03-01
 venue: '2nd International Symposium on Intelligence Design (ISID 2022), Online'
 citation: '**Xusheng Du**, Yi He, Xi Yang, Chia-Ming Chang and Haoran Xie.'
+type: Poster
 ---
