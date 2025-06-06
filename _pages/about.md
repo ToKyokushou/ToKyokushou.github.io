@@ -10,8 +10,6 @@ redirect_from:
 
 🎓 **Ph.D. Candidate (3rd Year)**  
 Japan Advanced Institute of Science and Technology (JAIST)  
-📧 [s2320034@jaist.ac.jp](mailto:s2320034@jaist.ac.jp)  
-🏠 5-503 JAIST, 1-8 Asahidai, Nomi, Ishikawa, Japan
 
 ---
 
@@ -19,8 +17,6 @@ Japan Advanced Institute of Science and Technology (JAIST)
 
 - **Image and 3D Model Generation** from Hand-Drawn Sketches  
 - **Interactive Interface Design and Development** for Human-Centered Experience  
-- **Voxel-based Urban Layout Generation**, Multi-Prompt + Multi-Condition ControlNet  
-- **Spatial Memory Embedding** in Patch-based Urban Generation
 
 ---
 
@@ -41,14 +37,14 @@ Japan Advanced Institute of Science and Technology (JAIST)
 
 ## 📄 Selected Publications
 
-- **Du, X.** et al. *Multi-View Depth Consistent Image Generation Using Generative AI*, CAADRIA 2025.
-- **Du, X.** et al. *DualShape: Sketch-based 3D Shape Design*, IEEE Access, 2024.
-- **Du, X.** et al. *Sketch-based 3D Shape Modeling from Sparse Point Clouds*, IWAIT 2022.
-- **Du, X.** et al. *LLM-driven Sketch to 3D Indoor Scene Synthesis*, ISID 2024 (🏆 Best Poster Award).
-- **Du, X.** et al. *A Sketch-based Hybrid Approach*, ISID 2023.
-- Xie, X. et al. *DiffOBI: Diffusion-based Inscription Style Generation*, SIGGRAPH Asia 2024.
-- Li, C. et al. *Generative AI in Architectural Design*, Frontiers of Architectural Research, 2024.
-- Li, S. et al. *Interactive Drawing for Anime Face Sketches*, IEEE Access, 2024.
+- *Multi-View Depth Consistent Image Generation Using Generative AI Models: Application on architectural design of university buildings*, CAADRIA 2025.
+- *DualShape: Sketch-based 3D Shape Design with Part Generation and Retrieval*, IEEE Access, 2024.
+- *Sketch-based 3D Shape Modeling from Sparse Point Clouds*, IWAIT 2022.
+- *Multimodal Large Language Model-Driven Sketch to 3D Indoor Scene Synthesis*, ISID 2024.
+- *A Sketch-based Hybrid Approach for Part Shape Generation and Assembly*, ISID 2023.
+- *DiffOBI: Diffusion-based Image Generation of Oracle Bone Inscription Style Characters*, SIGGRAPH Asia 2024.
+- *Generative AI Models for Different Steps in Architectural Design: A Literature Review*, Frontiers of Architectural Research, 2024.
+- *Interactive Drawing Interface for Aging Anime Face Sketches Using Transformer-Based Generative Model*, IEEE Access, 2024.
 
 ---
 
@@ -61,5 +57,4 @@ Japan Advanced Institute of Science and Technology (JAIST)
 
 ## 🛠️ Skills
 
-- Programming: `Python`, `JavaScript`, `Vue.js`  
-- Design Tools: `Blender`, `HTML/CSS`
+- Programming: `Python`, `JavaScript`, `Vue.js`, `Blender`, `HTML/CSS`
