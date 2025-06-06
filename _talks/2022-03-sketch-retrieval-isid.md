@@ -1,8 +1,8 @@
 ---
 title: "An Efficient Sketch-Based 3D Model Retrieval and Reconstruction from Sparse Point Clouds"
 index: 18
-collection: publications
-category: talks
+collection: talks
+category: Talk
 permalink: /publication/2022-03-sketch-retrieval-isid
 excerpt: 'A poster on sketch-based retrieval and reconstruction of 3D models from sparse point cloud inputs.'
 date: 2022-03-01
