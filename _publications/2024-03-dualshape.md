@@ -7,7 +7,7 @@ permalink: /publication/2024-03-dualshape
 excerpt: 'A sketch-driven framework for part-based 3D shape design and retrieval.'
 date: 2024-03-01
 venue: 'IEEE Access'
-thumbnail: /images/self.png
+thumbnail: /images/dualshape-1.png
 ---
 
 <img src="/images/dualshape-1.png" alt="Point Cloud Demo" style="float:right; margin: 0 0 1em 1em; width:300px;" />
