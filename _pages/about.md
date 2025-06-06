@@ -8,15 +8,58 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year Ph.D. student at the Japan Advanced Institute of Science and Technology (JAIST), working on AI-driven design systems and generative models for architecture and urban planning. My research spans **3D vision**, **generative AI**, **urban simulation**, and **multi-modal learning**.
+🎓 **Ph.D. Candidate (3rd Year)**  
+Japan Advanced Institute of Science and Technology (JAIST)  
+📧 [s2320034@jaist.ac.jp](mailto:s2320034@jaist.ac.jp)  
+🏠 5-503 JAIST, 1-8 Asahidai, Nomi, Ishikawa, Japan
 
-Currently, I'm developing voxel-based early-stage architectural generation methods from sketch and depth inputs, and enhancing **ControlNet** models to support **multi-prompt** and **multi-condition** fusion in urban layout generation. My recent work introduces **spatial memory modules** to improve large-area patch-based generation consistency.
+---
 
-I am fortunate to be advised by researchers in the field of AI for design and spatial computing. My work aims to bridge human-centered design needs and computational intelligence.
+## 🧠 Research Interests
 
-You can find my recent project here: [UMMC: Urban Multi-modal ControlNet](https://github.com/your_project_link)  
-🎬 [Demo Video](https://www.youtube.com/your_demo) / 📄 [Paper](https://arxiv.org/your_paper)
+- **Image and 3D Model Generation** from Hand-Drawn Sketches  
+- **Interactive Interface Design and Development** for Human-Centered Experience  
+- **Voxel-based Urban Layout Generation**, Multi-Prompt + Multi-Condition ControlNet  
+- **Spatial Memory Embedding** in Patch-based Urban Generation
 
-I'm open to research collaborations and actively looking forward to academic exchanges in relevant communities.
+---
 
-[Email](mailto:your_email@jaist.ac.jp) / [GitHub](https://github.com/your_github_id) / [WeChat](../images/wechat.jpg)
+## 🎓 Education
+
+- **Ph.D. in Information Science**, JAIST, Japan (2023.04 – 2026.03)  
+- **M.A. in Information Science**, JAIST, Japan (2021.04 – 2023.03)  
+- **B.A. in Physical Science**, Guangzhou University, China (2011.09 – 2015.06)
+
+---
+
+## 💼 Work Experience
+
+- **Software Engineer**, Gong Xiang Future (Beijing) Technology Co., Ltd. (2015.07 – 2017.08)  
+- **Software Engineer**, Udesk Co., Ltd. (2017.09 – 2019.10)
+
+---
+
+## 📄 Selected Publications
+
+- **Du, X.** et al. *Multi-View Depth Consistent Image Generation Using Generative AI*, CAADRIA 2025.
+- **Du, X.** et al. *DualShape: Sketch-based 3D Shape Design*, IEEE Access, 2024.
+- **Du, X.** et al. *Sketch-based 3D Shape Modeling from Sparse Point Clouds*, IWAIT 2022.
+- **Du, X.** et al. *LLM-driven Sketch to 3D Indoor Scene Synthesis*, ISID 2024 (🏆 Best Poster Award).
+- **Du, X.** et al. *A Sketch-based Hybrid Approach*, ISID 2023.
+- Xie, X. et al. *DiffOBI: Diffusion-based Inscription Style Generation*, SIGGRAPH Asia 2024.
+- Li, C. et al. *Generative AI in Architectural Design*, Frontiers of Architectural Research, 2024.
+- Li, S. et al. *Interactive Drawing for Anime Face Sketches*, IEEE Access, 2024.
+
+---
+
+## 🏅 Awards and Honors
+
+- **SPRING Researcher**: 次世代研究員（未来創造イノベーション博士人材支援プログラム）  
+- **Best Poster Award**, ISID 2024
+
+---
+
+## 🛠️ Skills
+
+- Programming: `Python`, `JavaScript`, `Vue.js`  
+- Design Tools: `Blender`, `HTML/CSS`
