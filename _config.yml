@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "DU Xusheng's Personal Homepage"
+title                    : "DU's Personal Homepage"
 title_separator          : "-"
 name                     : &name "DU Xusheng"
 description              : &description "personal description"
