@@ -8,5 +8,5 @@ excerpt: 'A poster describing an interactive interface for creating dynamic comi
 date: 2024-03-01
 venue: '4th International Symposium on Intelligence Design (ISID 2024), Online'
 citation: 'Zhengyang Wang, **Xusheng Du**, Tsukasa Fukusato, Haoran Xie.' 
-type: Talk
+type: Poster
 ---
