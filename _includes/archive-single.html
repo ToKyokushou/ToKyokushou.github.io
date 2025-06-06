@@ -6,10 +6,18 @@
   {% assign teaser = site.teaser %}
 {% endif %}
 
+<!-- 
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
-  {% assign title = title %}
+  {% assign title = title  | append: " (" | append: post.venue | append: ")" | markdownify | remove: "<p>" | remove: "</p>" %}
+{% endif %} -->
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title_raw = post.title | append: " (" | append: post.venue | append: ")" %}
+  {% assign title = title_raw | markdownify | remove: "<p>" | remove: "</p>" %}
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
