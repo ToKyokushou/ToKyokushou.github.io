@@ -8,5 +8,5 @@ excerpt: 'A sketch-based hybrid framework for generating and assembling part sha
 date: 2023-03-01
 venue: '3rd International Symposium on Intelligence Design (ISID 2023), Online'
 citation: '**Xusheng Du** and Haoran Xie.' 
-type: Talk
+type: Poster
 ---
