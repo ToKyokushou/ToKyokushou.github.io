@@ -7,4 +7,5 @@ permalink: /publication/2024-01-anime-face-transformer
 excerpt: 'A transformer-based generative framework for aging anime-style face sketches.'
 date: 2024-01-01
 venue: 'IEEE Access'
+citation: Sicheng Li, Xusheng Du, Haoran Xie, Kazunori Miyata.
 ---
