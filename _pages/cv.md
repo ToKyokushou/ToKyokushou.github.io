@@ -9,56 +9,64 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+---
+permalink: /
+title: "About Me"
+excerpt: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+🎓 **Ph.D. Candidate** (3rd Year) 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Japan Advanced Institute of Science and Technology (JAIST)  
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+---
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## 😉 Research Interests
+
+- **Image and 3D Model Generation** from Hand-Drawn Sketches  
+- **Interactive Interface Design and Development** for Human-Centered Experience  
+
+---
+
+## 🎓 Education
+
+- **Ph.D.** in Information Science, JAIST, Japan (2023.04 – 2026.03)  
+- **M.A.** in Information Science, JAIST, Japan (2021.04 – 2023.03)  
+- **B.A.** in Physical Science, Guangzhou University, China (2011.09 – 2015.06)
+
+---
+
+## 💼 Work Experience
+
+- **Software Engineer**, Gong Xiang Future (Beijing) Technology Co., Ltd. (2015.07 – 2017.08)  
+- **Software Engineer**, Udesk Co., Ltd. (2017.09 – 2019.10)
+
+---
+
+## 📄 Selected Publications
+
+- *Multi-View Depth Consistent Image Generation Using Generative AI Models: Application on architectural design of university buildings*, CAADRIA 2025.
+- *DualShape: Sketch-based 3D Shape Design with Part Generation and Retrieval*, IEEE Access, 2024.
+- *Sketch-based 3D Shape Modeling from Sparse Point Clouds*, IWAIT 2022.
+- *Multimodal Large Language Model-Driven Sketch to 3D Indoor Scene Synthesis*, ISID 2024.
+- *A Sketch-based Hybrid Approach for Part Shape Generation and Assembly*, ISID 2023.
+- *DiffOBI: Diffusion-based Image Generation of Oracle Bone Inscription Style Characters*, SIGGRAPH Asia 2024.
+- *Generative AI Models for Different Steps in Architectural Design: A Literature Review*, Frontiers of Architectural Research, 2024.
+- *Interactive Drawing Interface for Aging Anime Face Sketches Using Transformer-Based Generative Model*, IEEE Access, 2024.
+
+---
+
+## 🏅 Awards and Honors
+
+- **SPRING Researcher**, 次世代研究員（未来創造イノベーション博士人材支援プログラム）  
+- **Best Poster Award**, ISID 2024
+
+---
+
+## 🛠️ Skills
+
+- Programming: `Python`, `JavaScript`, `Vue.js`, `Blender`, `HTML/CSS`
