@@ -9,7 +9,7 @@
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
-  {% assign title = post.title %} {{ post.venue }}
+  {% assign title = post.title | append: " (" | append: post.venue | append: ")" %}
 {% endif %}
 
 <div class="{{ include.type | default: "list" }}__item">
