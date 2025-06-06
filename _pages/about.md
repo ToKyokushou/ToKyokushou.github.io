@@ -14,7 +14,7 @@ Japan Advanced Institute of Science and Technology (JAIST)
 
 ---
 
-## 🧠 Research Interests
+## 😉 Research Interests
 
 - **Image and 3D Model Generation** from Hand-Drawn Sketches  
 - **Interactive Interface Design and Development** for Human-Centered Experience  
