@@ -15,7 +15,7 @@
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if post.thumbnail %}
-      <div style="float:right; margin: 0 0 1em 1em; width: 140px;">
+      <div style="float:right; margin: 0 0 10px 0; width: 300px; border: 1px solid gray; border-radius: 5px;">
         <img src="{{ post.thumbnail | relative_url }}" alt="thumbnail" style="width:100%; border-radius:6px;">
       </div>
     {% endif %}
