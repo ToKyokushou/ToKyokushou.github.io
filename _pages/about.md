@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-🎓 **Ph.D. Candidate (3rd Year)**  
+🎓 **Ph.D. Candidate** (3rd Year) 
 Japan Advanced Institute of Science and Technology (JAIST)  
 
 ---
@@ -22,9 +22,9 @@ Japan Advanced Institute of Science and Technology (JAIST)
 
 ## 🎓 Education
 
-- **Ph.D. in Information Science**, JAIST, Japan (2023.04 – 2026.03)  
-- **M.A. in Information Science**, JAIST, Japan (2021.04 – 2023.03)  
-- **B.A. in Physical Science**, Guangzhou University, China (2011.09 – 2015.06)
+- **Ph.D.** in Information Science, JAIST, Japan (2023.04 – 2026.03)  
+- **M.A.** in Information Science, JAIST, Japan (2021.04 – 2023.03)  
+- **B.A.** in Physical Science, Guangzhou University, China (2011.09 – 2015.06)
 
 ---
 
@@ -50,7 +50,7 @@ Japan Advanced Institute of Science and Technology (JAIST)
 
 ## 🏅 Awards and Honors
 
-- **SPRING Researcher**: 次世代研究員（未来創造イノベーション博士人材支援プログラム）  
+- **SPRING Researcher**, 次世代研究員（未来創造イノベーション博士人材支援プログラム）  
 - **Best Poster Award**, ISID 2024
 
 ---
