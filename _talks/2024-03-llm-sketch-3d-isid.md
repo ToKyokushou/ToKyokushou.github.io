@@ -8,6 +8,6 @@ excerpt: 'A poster presenting a multimodal LLM-driven approach for sketch-to-3D 
 date: 2024-03-01
 venue: '4th International Symposium on Intelligence Design (ISID 2024), Online'
 citation: '**Xusheng Du**, Haoran Xie.'
-type: Talk
+type: Poster
 ---
 
