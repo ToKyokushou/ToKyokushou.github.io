@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 🎓 **Ph.D. Candidate** (3rd Year) 
+
 Japan Advanced Institute of Science and Technology (JAIST)  
 
 ---
