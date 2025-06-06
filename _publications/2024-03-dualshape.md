@@ -8,7 +8,7 @@ excerpt: 'A sketch-driven framework for part-based 3D shape design and retrieval
 date: 2024-03-01
 venue: 'IEEE Access'
 thumbnail: /images/dualshape-2.png
-citation: Xusheng Du, Tianyu Zhang, Haoran Xie.
+citation: **Xusheng Du**, Tianyu Zhang, Haoran Xie.
 ---
 
 <img src="/images/dualshape-1.png" alt="" style="width:100%;" />
