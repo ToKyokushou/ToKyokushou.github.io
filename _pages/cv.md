@@ -9,16 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
----
-permalink: /
-title: "About Me"
-excerpt: "About Me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 🎓 **Ph.D. Candidate** (3rd Year) 
 
 Japan Advanced Institute of Science and Technology (JAIST)  
