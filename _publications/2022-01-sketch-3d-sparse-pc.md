@@ -20,6 +20,8 @@ thumbnail: /images/1-sparse-pc-1.png
 
 **Framework:**
 
+Figure 2 shows the system overview of the proposed system. In the user interface, the user can adjust the angle to observe the spatial structure of the input sparse point cloud. After the observation, the user can determine any satisfactory angle and draw a sketch with reference to the sparse point cloud of the current angle. We overlay the sparse point cloud data with the retrieved 3D model with model alignment. If the user is not satis ed with the current model, the proposed interface allows the user to continue the retrieval based on the current model without redrawing. After the user con rms that the sketch modi cation is complete, the user can perform a re-retrieval in an interactive manner to obtain a new 3D model. By extracting the contours of the retrieved model (step 5), users can edit the contours and perform re-retrieval (step 6) in an interactive manner to continuously improve the overlap between the retrieved model and the initial point clouds.
+
 <img src="/images/1-sparse-pc-3.png" alt="" style="width:100%;" />
 
 <img src="/images/1-sparse-pc-4.png" alt="" style="width:100%;" />
