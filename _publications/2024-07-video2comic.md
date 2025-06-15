@@ -8,4 +8,10 @@ excerpt: 'An interactive editor that transforms video content into dynamic comic
 date: 2024-07-01
 venue: '26th International Conference on Human-Computer Interaction (HCI INTERNATIONAL 2024), Washington'
 citation: 'Zhengyang Wang, **Xusheng Du**, Tsukasa Fukusato, Haoran Xie.'
+thumbnail: /images/1-sparse-pc-1.png
 ---
+<img src="/images/1-sparse-pc-1.png" alt="" style="width:100%;" />
+
+**Abstract:**
+
+**Framework:**
