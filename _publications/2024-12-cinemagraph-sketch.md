@@ -8,4 +8,10 @@ excerpt: 'A sketch-guided method for synthesizing landscape cinemagraphs using g
 date: 2024-12-01
 venue: 'ACM SIGGRAPH Asia 2024, Posters, Tokyo, Japan'
 citation: 'Hao Jin, Zhengyang Wang, **Xusheng Du**, Xiaoxuan Xie, Haoran Xie.'
+thumbnail: /images/1-sparse-pc-1.png
 ---
+<img src="/images/1-sparse-pc-1.png" alt="" style="width:100%;" />
+
+**Abstract:**
+
+**Framework:**
