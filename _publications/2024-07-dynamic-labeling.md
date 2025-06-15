@@ -8,7 +8,7 @@ excerpt: 'A control system for dynamically adapting labeling styles in image ann
 date: 2024-07-01
 venue: '26th International Conference on Human-Computer Interaction (HCI INTERNATIONAL 2024), Washington, USA'
 citation: 'Chia-Ming Chang, Yi He, **Xusheng Du**, Xi Yang, Haoran Xie.'
-thumbnail: /images/8-label-1.png
+thumbnail: /images/8-label-3.png
 ---
 <img src="/images/8-label-1.png" alt="" style="width:100%;" />
 
