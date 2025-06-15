@@ -10,7 +10,7 @@ venue: 'IEEE Access'
 citation: 'Sicheng Li, **Xusheng Du**, Haoran Xie, Kazunori Miyata.'
 thumbnail: /images/5-animeface-1.png
 ---
-<img src="/images/5-animeface-1.png" alt="" style="width:100%;" />
+<img src="/images/5-animeface-3.png" alt="" style="width:100%;" />
 
 **Abstract:**
 
